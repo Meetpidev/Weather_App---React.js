@@ -7,7 +7,7 @@ import WbSunnyIcon from '@mui/icons-material/WbSunny';
 import ThunderstormIcon from '@mui/icons-material/Thunderstorm';
 
 export default function InfoBox({info}){
-  const HOT_URL = "https://media.istockphoto.com/id/1200224188/photo/white-clouds-and-sun-in-blue-sky.jpg?s=2048x2048&w=is&k=20&c=OErc-KEmtmAqtE3-UfcXnI1SMSYpVsQD95H8hIRIq0A=";
+  const HOT_URL = "./image/hot.png";
   const COLD_URL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaTz_4Y5xVMovEycogoK3zTwuMSt3HqEX_Dg&s";
   const RAIN_URL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlQaTtHfGB5z_j_uCh-m5U9isllTIoamKfw&s";
     return (
