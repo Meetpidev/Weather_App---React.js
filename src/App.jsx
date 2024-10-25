@@ -1,11 +1,8 @@
-// import WeatherApp from "./WeatherApp";
-import TodoTab from "../../../Todo_List/todo_list/src/todoTab";
+import WeatherApp from "./WeatherApp";
 function App() {
  return(
   <>
-   {/* <WeatherApp></WeatherApp> */}
-   <TodoTab></TodoTab>
-   
+   <WeatherApp></WeatherApp>
    </>
  );
 }
